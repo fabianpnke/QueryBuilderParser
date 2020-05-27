@@ -2,7 +2,7 @@
 
 namespace timgws;
 
-use Illuminate\Database\Eloquent\Builder;
+use Spiritix\LadaCache\Database\QueryBuilder as Builder;
 use stdClass;
 use timgws\QBParseException;
 
